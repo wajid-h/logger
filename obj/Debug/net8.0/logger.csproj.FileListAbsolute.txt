@@ -1,0 +1,14 @@
+/home/wajid/dotnet-projects/logger/obj/Debug/net8.0/logger.GeneratedMSBuildEditorConfig.editorconfig
+/home/wajid/dotnet-projects/logger/obj/Debug/net8.0/logger.AssemblyInfoInputs.cache
+/home/wajid/dotnet-projects/logger/obj/Debug/net8.0/logger.AssemblyInfo.cs
+/home/wajid/dotnet-projects/logger/obj/Debug/net8.0/logger.csproj.CoreCompileInputs.cache
+/home/wajid/dotnet-projects/logger/bin/Debug/net8.0/logger
+/home/wajid/dotnet-projects/logger/bin/Debug/net8.0/logger.deps.json
+/home/wajid/dotnet-projects/logger/bin/Debug/net8.0/logger.runtimeconfig.json
+/home/wajid/dotnet-projects/logger/bin/Debug/net8.0/logger.dll
+/home/wajid/dotnet-projects/logger/bin/Debug/net8.0/logger.pdb
+/home/wajid/dotnet-projects/logger/obj/Debug/net8.0/logger.dll
+/home/wajid/dotnet-projects/logger/obj/Debug/net8.0/refint/logger.dll
+/home/wajid/dotnet-projects/logger/obj/Debug/net8.0/logger.pdb
+/home/wajid/dotnet-projects/logger/obj/Debug/net8.0/logger.genruntimeconfig.cache
+/home/wajid/dotnet-projects/logger/obj/Debug/net8.0/ref/logger.dll
