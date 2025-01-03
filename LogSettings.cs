@@ -18,12 +18,12 @@ namespace Logger.Core {
 
 	[Flags]
 	public enum LoggingLevel {
-		Debug = 1 ,
-		Verbose  = 2,
-		Information =  4,
-		Warning = 8,
-		Error =  16,
-		Fatal = 32
+		Debug ,
+		Verbose ,
+		Information,
+		Warning,
+		Error,
+		Fatal
 	}
 				
 }
